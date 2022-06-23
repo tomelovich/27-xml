@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\КПиЯП практика\1-Z\1-Z\bin\Debug\1-Z.exe.config
+C:\Users\Admin\Desktop\КПиЯП практика\1-Z\1-Z\bin\Debug\1-Z.exe
+C:\Users\Admin\Desktop\КПиЯП практика\1-Z\1-Z\bin\Debug\1-Z.pdb
+C:\Users\Admin\Desktop\КПиЯП практика\1-Z\1-Z\obj\Debug\XMLTaskWPF.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\КПиЯП практика\1-Z\1-Z\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\КПиЯП практика\1-Z\1-Z\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\КПиЯП практика\1-Z\1-Z\obj\Debug\1-Z_MarkupCompile.cache
+C:\Users\Admin\Desktop\КПиЯП практика\1-Z\1-Z\obj\Debug\1-Z_MarkupCompile.lref
+C:\Users\Admin\Desktop\КПиЯП практика\1-Z\1-Z\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\КПиЯП практика\1-Z\1-Z\obj\Debug\1-Z.g.resources
+C:\Users\Admin\Desktop\КПиЯП практика\1-Z\1-Z\obj\Debug\_1_Z.Properties.Resources.resources
+C:\Users\Admin\Desktop\КПиЯП практика\1-Z\1-Z\obj\Debug\XMLTaskWPF.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\КПиЯП практика\1-Z\1-Z\obj\Debug\XMLTaskWPF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КПиЯП практика\1-Z\1-Z\obj\Debug\1-Z.exe
+C:\Users\Admin\Desktop\КПиЯП практика\1-Z\1-Z\obj\Debug\1-Z.pdb

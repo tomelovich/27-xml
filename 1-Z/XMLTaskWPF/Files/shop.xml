@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shop>
+  <product name="Milk">
+    <ExpirationDate>0</ExpirationDate>
+    <population>0</population>
+  </product>
+  <product name="yogurt">
+    <ExpirationDate>0</ExpirationDate>
+    <population>0</population>
+  </product>
+</Shop>
